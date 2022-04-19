@@ -25,7 +25,7 @@ MLUPS = 829.03
 time taken = 8.52
 MLUPS = 477.98
 
-5. 160 x 160 x 160	//getting segmentation fault after code executed
+5. 160 x 160 x 160	
 
 time taken = 10.48
 MLUPS = 388.86
@@ -64,18 +64,3 @@ MLUPS = 95.65
 
 time taken = 47.80
 MLUPS = 85.30
-
-13. 270 x 270 x 270	//segmentation fault (core dumped)
-
-time taken = 
-MLUPS = 
-
-14. 275 x 275 x 275	//segmentation fault (core dumped)
-
-time taken = 
-MLUPS = 
-
-15. 300 x 300 x 300	//segmentation fault (core dumped)
-
-time taken = 
-MLUPS = 
